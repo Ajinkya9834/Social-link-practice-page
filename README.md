@@ -41,14 +41,14 @@
   2. applied all the basic CSS properties.
   3. focused on responsivness. for that i used grid and media query.
   4. applied CSS properties for hover effect and focus state. 
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Media query
 - CSS Grid
-- Mobile-first workflow
-
+  
 ### What I learned
 
   - I learned how to implement the responsiveness, the hover effect and also focus state.
