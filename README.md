@@ -9,6 +9,7 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Author](#Author)
   
 
 
@@ -53,4 +54,6 @@
 
   - I learned how to implement the responsiveness, the hover effect and also focus state.
 
-
+### Author
+  - linked profile: www.linkedin.com/in/ajinkya-hajare
+  - Frontmentor challenges profile (other challenges): https://www.frontendmentor.io/profile/Ajinkya9834
